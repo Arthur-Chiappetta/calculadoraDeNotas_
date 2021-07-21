@@ -1,0 +1,2 @@
+rootProject.name = "calculadoraDeNotas_"
+include ':app'
